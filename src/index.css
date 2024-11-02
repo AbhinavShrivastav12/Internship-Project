@@ -1,0 +1,181 @@
+body {
+  background-color: #F9F9F9;
+  font-family: sans-serif;
+}
+
+.logo {
+  width: 130px;
+  height: 70px;
+  left: 100px;
+}
+
+.phone {
+  width: 120px;
+  height: 19px;
+  margin-right: 50px;
+}
+
+.fast-btn {
+  width: 148px;
+  height: 48px;
+}
+
+.homeImage {
+  width: 550px;
+}
+
+.div-box {
+  height: 120px;
+  width: 120px;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  background-color: #ECEEE9;
+}
+
+.content {
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 30.4px;
+  letter-spacing: 0.04em;
+  text-align: left;
+  width: 498px;
+  height: 217px;
+  top: 1847px;
+  left: 177px;
+  gap: 0px;
+  opacity: 0px;
+  margin-top: 25px;
+}
+
+.service-div {
+  display: flex;
+  align-items: center;
+  gap: 8px; 
+  padding: 10px 0;
+  margin-bottom: 25px;
+}
+
+.service-image {
+  width: 38px;
+  height: 38px;
+  margin-bottom: 12px;
+  margin-right: 15px;
+}
+
+.all{
+  width: 275px;
+height: 41.66px;
+top: 3449.34px;
+left: 181px;
+gap: 0px;
+opacity: 0px;
+
+}
+.article{
+ 
+  width: 289px;
+  height: 24px;
+  top: 3556px;
+  left: 229px;
+  font-family: Outfit;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  margin: 11px 0;
+  color: #000000;
+}
+
+.plus-icon{
+  width: 18px;
+  height: 18px;
+  top: 3469px;
+  left: 181px;
+  gap: 0px;
+  opacity: 0px;
+  color: #E23D37;
+
+}
+
+.quote-para{
+  color: #606762;
+  font-size: 19px;
+  letter-spacing: 1px;
+}
+
+
+.footer-para{
+  color: white;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+
+.foot-text{
+  color: #9ECCAB;
+  font-size: 18px;
+  word-spacing: 4px;
+}
+
+.details{
+  margin-top: 10px;
+}
+
+.get-quote-btn{
+  height: 50px;
+  width: 250px;
+  color: white;
+  border: 2px solid white;
+  background-color: #678928;
+}
+
+.contact-img{
+  color: white;
+}
+
+.social-media-img i{
+  color: white;
+  height: 35px;
+  width: 35px;
+}
+
+.image-container {
+  position: relative;
+  width: 500px; /* Set the desired width */
+  height: 500px; /* Set the desired height */
+}
+
+.background-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+.overlay-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  mix-blend-mode: overlay;
+  z-index: 2;
+}
+.swipe-button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px; 
+  width: 100%; 
+}
+
+.swipe-button {
+  width: 50px;  
+  height: auto;
+}
