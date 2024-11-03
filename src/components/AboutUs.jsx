@@ -10,7 +10,7 @@ export default function AboutUs() {
                 backgroundSize: 'cover',
                 backgroundPosition: 'center',
                 backgroundRepeat: 'no-repeat',
-                width: '100vw',
+                width: '1440px',
                 padding: '30px 0',
             }}>
                 <div className="container">

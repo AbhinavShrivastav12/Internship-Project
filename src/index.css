@@ -66,39 +66,7 @@ body {
   margin-right: 15px;
 }
 
-.all{
-  width: 275px;
-height: 41.66px;
-top: 3449.34px;
-left: 181px;
-gap: 0px;
-opacity: 0px;
 
-}
-.article{
- 
-  width: 289px;
-  height: 24px;
-  top: 3556px;
-  left: 229px;
-  font-family: Outfit;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 24px;
-  margin: 11px 0;
-  color: #000000;
-}
-
-.plus-icon{
-  width: 18px;
-  height: 18px;
-  top: 3469px;
-  left: 181px;
-  gap: 0px;
-  opacity: 0px;
-  color: #E23D37;
-
-}
 
 .quote-para{
   color: #606762;
@@ -143,8 +111,8 @@ opacity: 0px;
 
 .image-container {
   position: relative;
-  width: 500px; /* Set the desired width */
-  height: 500px; /* Set the desired height */
+  width: 500px;
+  height: 500px; 
 }
 
 .background-image {
@@ -178,4 +146,15 @@ opacity: 0px;
 .swipe-button {
   width: 50px;  
   height: auto;
+  padding-bottom: 110px;
+}
+.app-container{
+  align-content: center;
+  width: 1440px;
+height: 4024px;
+top: -232px;
+left: -1057px;
+gap: 0px;
+opacity: 0px;
+display:block;
 }

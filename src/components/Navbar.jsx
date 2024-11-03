@@ -10,7 +10,7 @@ export default function Navbar() {
                     <img className='logo' src={logo} alt="Logo" />
                 </a>
 
-                <ul className="nav col-md-auto mb-2 mb-md-0 d-flex justify-content-center gap-3">
+                <ul className="nav col-md-auto mb-2 mb-md-0 d-flex justify-content-center gap-3" style={{width:'471px',height:'20px',top:"60px",left:'490px'}}>
                     <li><a href="#" className="nav-link px-2 link-secondary"><b>Home</b></a></li>
                     <li><a href="#" className="nav-link px-2 link-dark">Services</a></li>
                     <li><a href="#" className="nav-link px-2 link-dark">FAQs</a></li>
