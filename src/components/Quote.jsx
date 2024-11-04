@@ -2,7 +2,7 @@ import React from 'react';
 import phone from '../images/Group 5.png';
 import rectangleBG from '../images/flies-bg-image.jpg';
 
-export default function Services2() {
+export default function Quote() {
     return (
         <div
             style={{

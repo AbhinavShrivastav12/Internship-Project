@@ -1,7 +1,7 @@
 import React from "react";
 import "../images/male-janitor-mopping-corridor-young-african-cleaning-floor-57190720.webp";
 
-export default function FAQ() {
+export default function QUESTIONS() {
   return (
     <div
       className="container d-flex justify-content-around"

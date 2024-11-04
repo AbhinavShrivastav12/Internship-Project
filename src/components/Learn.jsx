@@ -4,7 +4,7 @@ import meetingImage from "../images/Meeting.png";
 import sheld from "../images/sheld.png";
 import bugImage from "../images/bug.png";
 
-export default function Services() {
+export default function Learn() {
   return (
     <div
       className="container d-flex justify-content-around"

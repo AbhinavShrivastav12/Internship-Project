@@ -3,7 +3,7 @@ import rectImage from "../images/Rectangle 83.png";
 import quotes from "../images/quote.png";
 import "../images/Group 87.png";
 
-export default function Reviews() {
+export default function Feedback() {
   return (
     <div
       style={{
